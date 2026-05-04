@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maine 2026 Primary Voter Guide — Bangor Daily News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <header id="guide-header">
+      <div class="header-inner">
+        <a class="header-brand" href="#/">
+          <span class="bdn-mark">BDN</span>
+          <div class="header-titles">
+            <span class="header-eyebrow">Maine 2026</span>
+            <span class="header-name">Primary Voter Guide</span>
+          </div>
+        </a>
+        <div class="header-actions">
+          <button class="btn-ghost" id="btn-copy">Copy link</button>
+          <button class="btn-ghost btn-icon" id="btn-fullscreen" title="Fullscreen">&#x26F6;</button>
+        </div>
+      </div>
+      <nav id="breadcrumb" class="breadcrumb"></nav>
+    </header>
+
+    <main id="main"></main>
+
+    <div id="compare-tray" class="compare-tray hidden">
+      <div class="compare-tray-inner">
+        <span class="compare-tray-label">Comparing:</span>
+        <div id="compare-tray-chips"></div>
+        <div class="compare-tray-actions">
+          <button class="btn-primary" id="btn-compare-go">Compare &rarr;</button>
+          <button class="btn-ghost" id="btn-compare-clear">Clear</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="toast" class="toast"></div>
+  </div>
+
+  <!-- Side panel -->
+  <div id="sp-overlay" class="sp-overlay" onclick="closeSidePanel()"></div>
+  <div id="side-panel" class="side-panel">
+    <div class="sp-header">
+      <span id="sp-title" class="sp-title"></span>
+      <button class="sp-close" onclick="closeSidePanel()">&#x2715;</button>
+    </div>
+    <div id="sp-body" class="sp-body"></div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
