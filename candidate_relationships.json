@@ -1,0 +1,172 @@
+[
+  {
+    "race_id": "governor-rep",
+    "candidate_a": "Bobby Charles",
+    "candidate_b": "Jonathan Bush",
+    "type": "rival",
+    "quality": "strong",
+    "summary": "Bush has been the most aggressive critic of Charles in the race, repeatedly targeting his lobbyist background. \"Bobby is a lobbyist,\" Bush said at the May 7 CBS13/BDN debate. \"CEOs deliver, and lobbyists lobby.\" A political action committee backing Bush released an AI-generated video depicting former President Barack Obama patting Charles' shoulder — a reference to federal contracts Charles' firm won during the Obama years. Bush also called on Charles to \"come out of the Joe Biden bunker.\" Charles skipped both debates Bush attended that week and called the Bangor Daily News the \"Bobby Derangement Network.\"",
+    "source_label": "BDN: A missing Bobby Charles and new alliance mark Maine Republican debate",
+    "source_url": "https://www.bangordailynews.com/2026/05/07/politics/elections/maine-republican-debate/"
+  },
+  {
+    "race_id": "governor-rep",
+    "candidate_a": "Bobby Charles",
+    "candidate_b": "Garrett Mason",
+    "type": "rival",
+    "quality": "strong",
+    "summary": "Mason attacked Charles from the same side of the field — both are former lobbyists, but Mason argued he is transparent about his connections while Charles is not. Mason said Charles' proposed $4 billion budget cut \"crashes the Maine economy\" and declared \"we can't have somebody with the temperament of Bobby Charles anywhere near the Blaine House.\" Mason also said Maine voters deserve \"a governor who is present, accountable, and willing to stand in front of them\" — a direct shot at Charles' decision to skip two debates in one week.",
+    "source_label": "BDN: Maine Republicans move aggressively to take down Bobby Charles",
+    "source_url": "https://www.bangordailynews.com/2026/05/06/politics/elections/bobby-charles-gop-debate-attacks-n6hjn1me0n/"
+  },
+  {
+    "race_id": "governor-rep",
+    "candidate_a": "Bobby Charles",
+    "candidate_b": "Ben Midgley",
+    "type": "rival",
+    "quality": "moderate",
+    "summary": "Charles sarcastically welcomed Midgley into the race, expressing surprise \"he's not running as a Democrat\" — a reference to Midgley's 27-year history as a registered Democrat before switching parties in 2015. Midgley called Charles' proposed $4 billion budget cuts unreasonable and posted on social media \"I will always show up\" — an implicit dig at Charles' decision to skip two debates in one week.",
+    "source_label": "BDN: Maine Republicans move aggressively to take down Bobby Charles",
+    "source_url": "https://www.bangordailynews.com/2026/05/06/politics/elections/bobby-charles-gop-debate-attacks-n6hjn1me0n/"
+  },
+  {
+    "race_id": "governor-rep",
+    "candidate_a": "Bobby Charles",
+    "candidate_b": "David Jones",
+    "type": "rival",
+    "quality": "moderate",
+    "summary": "Jones was booed at a March Bangor debate after launching a last-minute attack on Charles. At the May 5 WMTW debate — which Charles skipped — Jones said Charles' \"absence is a pattern we all see.\" By the May 7 CBS13/BDN debate, Jones largely moved on, using his opening statement to announce his ranked-choice alliance with Midgley rather than leading with attacks on Charles.",
+    "source_label": "BDN: Maine Republicans move aggressively to take down Bobby Charles",
+    "source_url": "https://www.bangordailynews.com/2026/05/06/politics/elections/bobby-charles-gop-debate-attacks-n6hjn1me0n/"
+  },
+  {
+    "race_id": "governor-rep",
+    "candidate_a": "Jonathan Bush",
+    "candidate_b": "Garrett Mason",
+    "type": "rival",
+    "quality": "moderate",
+    "summary": "Bush and Mason have tangled over who is the true political outsider. Mason pointed out that \"you can't honestly say you're a political outsider when your last name is Bush,\" noting their family's White House history. Bush countered that he has lived his life almost entirely outside politics. Bush also attacked Mason's proposal to use the National Guard to bolster rural health facility staffing, saying it showed \"a lack of faith\" in the private sector. Mason chuckled and encouraged Bush to talk to Republican governors who have successfully filled rural health gaps.",
+    "source_label": "BDN: A missing Bobby Charles and new alliance mark Maine Republican debate",
+    "source_url": "https://www.bangordailynews.com/2026/05/07/politics/elections/maine-republican-debate/"
+  },
+  {
+    "race_id": "governor-rep",
+    "candidate_a": "Jonathan Bush",
+    "candidate_b": "David Jones",
+    "type": "cordial",
+    "quality": "moderate",
+    "summary": "Jones described Bush as \"a good guy\" while announcing his ranked-choice alliance with Midgley at the May 7 debate. After the debate, as candidates shook hands, Bush joked to Jones: \"You broke my heart\" — a lighthearted reference to Jones choosing Midgley instead of him as a ranked-choice partner. The two have been generally civil, sharing an outsider-businessman lane without direct conflict.",
+    "source_label": "BDN: A missing Bobby Charles and new alliance mark Maine Republican debate",
+    "source_url": "https://www.bangordailynews.com/2026/05/07/politics/elections/maine-republican-debate/"
+  },
+  {
+    "race_id": "governor-rep",
+    "candidate_a": "Jonathan Bush",
+    "candidate_b": "Robert Wessels",
+    "type": "allied",
+    "quality": "moderate",
+    "summary": "The two had an early flash of tension at the March 10 Old Orchard Beach debate, when Wessels quizzed Bush on abortion and drew out Bush's support for abortion rights before 24 weeks. Wessels said he believes life begins at conception. Bush responded that trying to impose that view was \"the surest way to keep us out of the House, the Senate, the governor's mansion and every district attorney's seat.\" Despite that friction, Wessels later became Bush's volunteer \"grassroots chair\" in Maine's 2nd Congressional District, saying he was \"excited that [Bush's] plans to shrink government line up so well with my own,\" and pledged to rank Bush second on his ballot.",
+    "source_label": "BDN: Garrett Mason criticized over wealthy backers at Maine Republican gubernatorial debate",
+    "source_url": "https://www.bangordailynews.com/2026/03/10/politics/elections/maine-republican-debate-garrett-mason-jonathan-bush-david-jones/"
+  },
+  {
+    "race_id": "governor-rep",
+    "candidate_a": "Garrett Mason",
+    "candidate_b": "David Jones",
+    "type": "tension",
+    "quality": "moderate",
+    "summary": "At the March 10 Old Orchard Beach debate, Jones asked Mason whether he was beholden to billionaires — a reference to $1.7 million in outside ad spending from an Illinois billionaire backing Mason. The exchange turned personal. \"This is David Jones,\" Mason said. \"All show, no go. Never completed any kind of service in the state of Maine at all.\" Jones responded that the campaign finance system was not designed with this level of spending in mind.",
+    "source_label": "BDN: Garrett Mason criticized over wealthy backers at Maine Republican gubernatorial debate",
+    "source_url": "https://www.bangordailynews.com/2026/03/10/politics/elections/maine-republican-debate-garrett-mason-jonathan-bush-david-jones/"
+  },
+  {
+    "race_id": "governor-rep",
+    "candidate_a": "Garrett Mason",
+    "candidate_b": "Ben Midgley",
+    "type": "rival",
+    "quality": "moderate",
+    "summary": "Midgley accused Mason of spreading false information about his fitness business, a charge Mason denied. Both candidates have generally focused their attacks on Charles rather than each other, but the false-information dispute added friction. Like Bush, Midgley has argued the state needs a CEO rather than a lobbyist — a framing that implicitly targets Mason.",
+    "source_label": "BDN: Maine Republicans move aggressively to take down Bobby Charles",
+    "source_url": "https://www.bangordailynews.com/2026/05/06/politics/elections/bobby-charles-gop-debate-attacks-n6hjn1me0n/"
+  },
+  {
+    "race_id": "governor-rep",
+    "candidate_a": "Ben Midgley",
+    "candidate_b": "David Jones",
+    "type": "allied",
+    "quality": "strong",
+    "summary": "Jones and Midgley formed the most explicit ranked-choice alliance of the Republican race, publicly endorsing each other as second choices at the May 7 CBS13/BDN debate. Jones said he had gotten to know Midgley on the trail and believed they would \"both make good governors.\" Midgley reciprocated, calling Jones \"a solid guy and accomplished businessman.\" After the debate, Bush joked to Jones that \"you broke my heart\" for choosing Midgley over him as a ranked-choice partner.",
+    "source_label": "BDN: A missing Bobby Charles and new alliance mark Maine Republican debate",
+    "source_url": "https://www.bangordailynews.com/2026/05/07/politics/elections/maine-republican-debate/"
+  },
+  {
+    "race_id": "governor-dem",
+    "candidate_a": "Nirav Shah",
+    "candidate_b": "Hannah Pingree",
+    "type": "cordial",
+    "quality": "moderate",
+    "summary": "Shah was the only Democratic candidate to name a ranked-choice second pick at the May 7 CBS13/BDN debate, and he chose Pingree — who stood to his left on stage. The two have been generally cordial throughout the race, sharing similar positions on housing investment, school-based health centers, and the millionaires tax.",
+    "source_label": "BDN: 4 moments from a Maine Democratic debate that took on Donald Trump",
+    "source_url": "https://www.bangordailynews.com/2026/05/05/politics/elections/maine-democratic-gubernatorial-debate/"
+  },
+  {
+    "race_id": "governor-dem",
+    "candidate_a": "Shenna Bellows",
+    "candidate_b": "Troy Jackson",
+    "type": "allied",
+    "quality": "strong",
+    "summary": "Bellows and Jackson drew the broadest organizational support of any Democratic pair. The Maine Education Association ranked Bellows first and Jackson second. The Maine State Employees Association ranked Jackson first and Bellows second. The Sierra Club endorsed both equally alongside Pingree. The two share a progressive lane focused on worker priorities and tax policy, and their overlapping endorsements reflect a closely matched ideological profile.",
+    "source_label": "News Center Maine: Step aside, ranked-choice voting; ranked-choice endorsements are the new trend",
+    "source_url": "https://www.newscentermaine.com/article/news/local/step-aside-ranked-choice-voting-ranked-choice-endorsements-are-the-new-trend/97-90f6e9c9-4808-4271-bb59-6a7290c1fb76"
+  },
+  {
+    "race_id": "governor-dem",
+    "candidate_a": "Troy Jackson",
+    "candidate_b": "Hannah Pingree",
+    "type": "cordial",
+    "quality": "moderate",
+    "summary": "Jackson and Pingree were both endorsed equally by the Sierra Club alongside Bellows — the only Democratic pair to share a Sierra Club endorsement without one of them ranking above the other. No overt conflict has emerged between the two.",
+    "source_label": "News Center Maine: Step aside, ranked-choice voting; ranked-choice endorsements are the new trend",
+    "source_url": "https://www.newscentermaine.com/article/news/local/step-aside-ranked-choice-voting-ranked-choice-endorsements-are-the-new-trend/97-90f6e9c9-4808-4271-bb59-6a7290c1fb76"
+  },
+  {
+    "race_id": "governor-dem",
+    "candidate_a": "Troy Jackson",
+    "candidate_b": "Nirav Shah",
+    "type": "cordial",
+    "quality": "moderate",
+    "summary": "The Maine Education Association ranked Jackson second and Shah third in its multi-candidate endorsement — the only organizational link between the two. No overt conflict has emerged, though they occupy somewhat different lanes in the race.",
+    "source_label": "News Center Maine: Step aside, ranked-choice voting; ranked-choice endorsements are the new trend",
+    "source_url": "https://www.newscentermaine.com/article/news/local/step-aside-ranked-choice-voting-ranked-choice-endorsements-are-the-new-trend/97-90f6e9c9-4808-4271-bb59-6a7290c1fb76"
+  },
+  {
+    "race_id": "governor-dem",
+    "candidate_a": "Hannah Pingree",
+    "candidate_b": "Shenna Bellows",
+    "type": "tension",
+    "quality": "moderate",
+    "summary": "The most notable friction in the Democratic race came when Bellows said at the May 5 WMTW debate that she appreciated \"Hannah has adopted my view on property taxes\" — implying Pingree had borrowed her idea of taxing second homeowners. Pingree pushed back, noting she had sponsored a bill on taxing second homes as a young state legislator. Bellows later apologized in the studio after the debate. The two were nonetheless co-endorsed equally by the Sierra Club alongside Jackson.",
+    "source_label": "BDN: 4 moments from a Maine Democratic debate that took on Donald Trump",
+    "source_url": "https://www.bangordailynews.com/2026/05/05/politics/elections/maine-democratic-gubernatorial-debate/"
+  },
+  {
+    "race_id": "governor-dem",
+    "candidate_a": "Shenna Bellows",
+    "candidate_b": "Nirav Shah",
+    "type": "cordial",
+    "quality": "moderate",
+    "summary": "The Maine Education Association ranked Bellows first and Shah third in its multi-candidate endorsement — the broadest organizational link between the two. No direct conflict has emerged between them in the race.",
+    "source_label": "News Center Maine: Step aside, ranked-choice voting; ranked-choice endorsements are the new trend",
+    "source_url": "https://www.newscentermaine.com/article/news/local/step-aside-ranked-choice-voting-ranked-choice-endorsements-are-the-new-trend/97-90f6e9c9-4808-4271-bb59-6a7290c1fb76"
+  },
+  {
+    "race_id": "governor-rep",
+    "candidate_a": "Bobby Charles",
+    "candidate_b": "Robert Wessels",
+    "type": "cordial",
+    "quality": "moderate",
+    "summary": "Charles cited Wessels' failure to qualify for the CBS13/BDN debate as his reason for skipping it. That afternoon, the two held a live-streamed Facebook discussion together — an informal joint appearance while their opponents debated on stage. Wessels ultimately ranked Bush second rather than Charles, but the two have remained on good terms throughout the race.",
+    "source_label": "BDN: A Maine Republican is joining his rival's campaign while staying in the race",
+    "source_url": "https://www.bangordailynews.com/2026/05/07/politics/elections/wessels-joining-his-bush-campaign-maine-governor/"
+  }
+]
