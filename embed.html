@@ -1163,12 +1163,19 @@ a { color: var(--green); }
   display: grid;
   grid-template-columns: 1fr 260px;
   gap: 14px;
-  align-items: start;
+  align-items: stretch;
 }
 .quote-left {
   display: flex;
   flex-direction: column;
   gap: 6px;
+}
+.quote-video-layout .video-embed-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.quote-video-layout .video-embed-placeholder {
+  flex: 1;
 }
 
 .video-embed-wrapper {
