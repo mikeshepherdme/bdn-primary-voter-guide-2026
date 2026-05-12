@@ -27234,11 +27234,49 @@ const SOURCE_LABELS = {
   'Maine Policy Institute interview, 2026-01-14': 'Maine Policy Institute, Jan. 14, 2026',
   'Maine Policy Institute interview, 2026-02-17': 'Maine Policy Institute, Feb. 17, 2026',
   'Maine Policy Institute interview, 2026-03-13': 'Maine Policy Institute, March 13, 2026',
+  // CBS13/BDN debates
+  'cbs13_bdn_gov_dem_debate_2026-05-08':    'CBS13/BDN Debate, May 8, 2026',
+  'cbs13_bdn_gov_rep_debate_2026-05-08':    'CBS13/BDN Debate, May 8, 2026',
   // WMTW debates
   'wmtw_cd2_dem_debate_2026-04-28':         'WMTW, April 28, 2026',
   'wmtw_gov_dem_debate_2026-04-30':         'WMTW, April 30, 2026',
   // Misc
-  'interview, 2025-07-23':                  'Interview, July 23, 2025',
+  'interview, 2025-07-23':                  'BDN Interview, July 23, 2025',
+};
+
+// Source ID → canonical URL (for non-video quotes that have no url field)
+const SOURCE_URLS = {
+  'colby_th_angus_king_2026-02-26':         'https://www.youtube.com/watch?v=mopCKOu8xBs',
+  'colby_th_graham_platner_2026-02-19':     'https://www.youtube.com/watch?v=Xfm-TVCtE5Q',
+  'colby_th_hannah_pingree_2026-03-12':     'https://www.youtube.com/watch?v=orwjWNv2gJo',
+  'colby_th_janet_mills_2026-03-19':        'https://www.youtube.com/watch?v=coe0sHxzZYM',
+  'colby_th_shenna_bellows_2026-04-02':     'https://www.youtube.com/watch?v=whoAVLCeTXQ',
+  'colby_th_troy_jackson_2026-02-12':       'https://www.youtube.com/watch?v=5H3Pu6rClrE',
+  'Colby College Democrats interview, 2026-02-12': 'https://www.youtube.com/watch?v=5H3Pu6rClrE',
+  'Colby College Democrats interview, 2026-02-19': 'https://www.youtube.com/watch?v=Xfm-TVCtE5Q',
+  'Colby College Democrats interview, 2026-02-26': 'https://www.youtube.com/watch?v=mopCKOu8xBs',
+  'Colby College Democrats interview, 2026-03-12': 'https://www.youtube.com/watch?v=orwjWNv2gJo',
+  'Colby College Democrats interview, 2026-03-19': 'https://www.youtube.com/watch?v=coe0sHxzZYM',
+  'Colby College Democrats interview, 2026-04-02': 'https://www.youtube.com/watch?v=whoAVLCeTXQ',
+  'common_sense_debate_2026-03-10':         'https://www.youtube.com/watch?v=6p0n7zof9JM',
+  'common_sense_gov_rep_debate_2025-09-16': 'https://www.youtube.com/watch?v=7Xuga65-dBk',
+  'mpi_ben_midgley_2025-10-18':             'https://www.youtube.com/watch?v=GUCIyqpnNzk',
+  'mpi_david_jones_2025-06-27':             'https://www.youtube.com/watch?v=Y0qrGTQNwms',
+  'mpi_garrett_mason_2026-02-17':           'https://www.youtube.com/watch?v=wZEKvy27kU4',
+  'mpi_jonathan_bush_2026-01-14':           'https://www.youtube.com/watch?v=djsIlB50zKI',
+  'mpi_owen_mccarthy_2025-07-11':           'https://www.youtube.com/watch?v=ttvRxtbVKno',
+  'mpi_robert_wessels_2026-03-05':          'https://www.youtube.com/watch?v=Ejb_JQ2Zcuc',
+  'Maine Policy Institute interview, 2025-04-19': 'https://www.youtube.com/watch?v=djsIlB50zKI',
+  'Maine Policy Institute interview, 2025-06-27': 'https://www.youtube.com/watch?v=Y0qrGTQNwms',
+  'Maine Policy Institute interview, 2025-07-11': 'https://www.youtube.com/watch?v=ttvRxtbVKno',
+  'Maine Policy Institute interview, 2025-10-18': 'https://www.youtube.com/watch?v=GUCIyqpnNzk',
+  'Maine Policy Institute interview, 2026-01-14': 'https://www.youtube.com/watch?v=djsIlB50zKI',
+  'Maine Policy Institute interview, 2026-02-17': 'https://www.youtube.com/watch?v=wZEKvy27kU4',
+  'Maine Policy Institute interview, 2026-03-13': 'https://www.youtube.com/watch?v=Ejb_JQ2Zcuc',
+  'wmtw_cd2_dem_debate_2026-04-28':         'https://www.youtube.com/watch?v=b5EkoUQxiNg',
+  'wmtw_gov_dem_debate_2026-04-30':         'https://www.youtube.com/watch?v=__T6ZQTepcw',
+  'cbs13_bdn_gov_dem_debate_2026-05-08':    'https://www.youtube.com/watch?v=I6cn_vYt4gU',
+  'cbs13_bdn_gov_rep_debate_2026-05-08':    'https://www.youtube.com/watch?v=0F7q2tBdVAU',
 };
 
 const MONTHS = ['Jan.','Feb.','March','April','May','June','July','Aug.','Sept.','Oct.','Nov.','Dec.'];
@@ -27252,6 +27290,7 @@ function dateFromUrl(url) {
 
 function prettyLabel(label, url) {
   if (!label) return label;
+  label = label.trim();
   if (SOURCE_LABELS[label]) return SOURCE_LABELS[label];
   // For news article labels like 'Outlet: "Headline"', strip the headline and append date from URL
   const m = label.match(/^([^:"]+):\s*["""].+$/);
@@ -27978,8 +28017,9 @@ function quoteItemHtml(q) {
   if (!q) return '';
   const type     = classifyQuote(q);
   const text     = typeof q === 'string' ? q : (q.text || '');
-  const url      = typeof q === 'object' ? (q.url || null) : null;
-  const source   = prettyLabel(typeof q === 'object' ? (q.source || '') : '', url);
+  const rawSrc   = typeof q === 'object' ? (q.source || '') : '';
+  const url      = typeof q === 'object' ? (q.url || SOURCE_URLS[rawSrc.trim()] || null) : null;
+  const source   = prettyLabel(rawSrc, url);
   const embedUrl = typeof q === 'object' ? (q.embed_url || null) : null;
   const videoUrl = typeof q === 'object' ? (q.video_url || null) : null;
   const ts       = typeof q === 'object' ? q.timestamp_seconds : null;
