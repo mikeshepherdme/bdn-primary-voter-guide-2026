@@ -29496,9 +29496,9 @@ function topicBodyHtml(td) {
       ${bulletsHtml ? `<ul class="synthesis-bullets">${bulletsHtml}</ul>` : ''}`;
   }
 
-  // Fallback for topics not yet synthesized: non-video quotes only
+  // Fallback for topics not yet synthesized
   const quotes = td.quotes || [];
-  const sortedAll = quotes.filter(q => typeof q === 'object' && !q.embed_url).slice().sort((a, b) => quoteScore(a) - quoteScore(b));
+  const sortedAll = quotes.filter(q => typeof q === 'object').slice().sort((a, b) => quoteScore(a) - quoteScore(b));
   return `
     ${td.position ? `<div class="topic-position-text">${td.position}</div>` : ''}
     ${sortedAll.length > 0 ? `<div class="quotes-list">${sortedAll.map(q => quoteItemHtml(q)).join('')}</div>` : ''}`;
@@ -29803,21 +29803,16 @@ function quoteItemHtml(q) {
   }
 
   if (embedUrl) {
-    const playerHtml = `
-      <div class="video-embed-wrapper" data-embed="${embedUrl}" onclick="loadEmbed(this)">
-        <div class="video-embed-placeholder">
-          <div class="play-btn">&#9654;</div>
-          ${ts != null ? `<div class="video-ts-label">at ${formatTs(ts)}</div>` : ''}
-        </div>
-      </div>`;
+    // Render as plain text quote linking directly to the timestamped video, no embed player
+    const watchUrl = videoUrl || (embedUrl.replace('youtube.com/embed/', 'youtube.com/watch?v=').replace(/\?start=(\d+)/, (_, s) => `&t=${s}`));
+    const tsLink = ts != null ? ` at ${formatTs(ts)}` : '';
+    const safeWatch = watchUrl.replace(/"/g, '%22');
+    const linkedSource = `<div class="quote-source-line"><a href="${safeWatch}" target="_blank" rel="noopener">${source}${tsLink}</a></div>`;
     return `
-      <div class="quote-item q-video quote-video-layout">
-        <div class="quote-left">
-          <div class="quote-type-row"><span class="badge ${badgeClass}">${badgeLabel}</span></div>
-          <div class="quote-text italic">${text}</div>
-          ${sourceHtml}
-        </div>
-        ${playerHtml}
+      <div class="quote-item q-direct">
+        <div class="quote-type-row"><span class="badge badge-direct">Direct quote</span></div>
+        <div class="quote-text italic">${text}</div>
+        ${linkedSource}
       </div>`;
   }
 
