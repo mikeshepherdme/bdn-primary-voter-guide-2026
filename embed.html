@@ -29491,28 +29491,17 @@ function topicBodyHtml(td) {
       .sort((a, b) => bulletScore(a) - bulletScore(b));
     const bulletsHtml = citedBullets.map(b => bulletHtml(b)).join('');
 
-    // Best video: prefer non-Morning Star if available, else fall back to any
-    const videos = (td.quotes || []).filter(q => typeof q === 'object' && q.embed_url);
-    const bestVideo = videos.sort((a, b) => quoteScore(a) - quoteScore(b))[0] || null;
-    const videoHtml = bestVideo
-      ? `<div class="quotes-list">${quoteItemHtml(bestVideo)}</div>`
-      : '';
-
     return `
       <div class="synthesis-overview">${s.overview}</div>
-      ${bulletsHtml ? `<ul class="synthesis-bullets">${bulletsHtml}</ul>` : ''}
-      ${videoHtml}`;
+      ${bulletsHtml ? `<ul class="synthesis-bullets">${bulletsHtml}</ul>` : ''}`;
   }
 
-  // Fallback for topics not yet synthesized: one video clip + all non-video quotes
+  // Fallback for topics not yet synthesized: non-video quotes only
   const quotes = td.quotes || [];
-  const sortedAll = quotes.filter(q => typeof q === 'object').slice().sort((a, b) => quoteScore(a) - quoteScore(b));
-  const bestVideo   = sortedAll.find(q => q.embed_url) || null;
-  const otherQuotes = sortedAll.filter(q => !q.embed_url);
-  const displayQuotes = bestVideo ? [bestVideo, ...otherQuotes] : otherQuotes;
+  const sortedAll = quotes.filter(q => typeof q === 'object' && !q.embed_url).slice().sort((a, b) => quoteScore(a) - quoteScore(b));
   return `
     ${td.position ? `<div class="topic-position-text">${td.position}</div>` : ''}
-    ${displayQuotes.length > 0 ? `<div class="quotes-list">${displayQuotes.map(q => quoteItemHtml(q)).join('')}</div>` : ''}`;
+    ${sortedAll.length > 0 ? `<div class="quotes-list">${sortedAll.map(q => quoteItemHtml(q)).join('')}</div>` : ''}`;
 }
 
 // ── Unified citation renderer ─────────────────────────────────────────────────
