@@ -671,9 +671,10 @@ function topicBodyHtml(td) {
     const citedBullets = (s.bullets || []).filter(b => b.source_label || b.source_url);
     const bulletsHtml  = citedBullets.map(b => bulletHtml(b)).join('');
 
-    const videoQuotes = (td.quotes || []).filter(q => typeof q === 'object' && q.embed_url);
-    const videoHtml   = videoQuotes.length
-      ? `<div class="quotes-list">${videoQuotes.map(q => quoteItemHtml(q)).join('')}</div>`
+    // Show at most one video clip per topic
+    const bestVideo = (td.quotes || []).find(q => typeof q === 'object' && q.embed_url);
+    const videoHtml = bestVideo
+      ? `<div class="quotes-list">${quoteItemHtml(bestVideo)}</div>`
       : '';
 
     return `
@@ -682,11 +683,14 @@ function topicBodyHtml(td) {
       ${videoHtml}`;
   }
 
-  // Fallback for topics not yet synthesized
+  // Fallback for topics not yet synthesized: one video clip + all non-video quotes
   const quotes = td.quotes || [];
+  const videoQuote  = quotes.find(q => typeof q === 'object' && q.embed_url);
+  const otherQuotes = quotes.filter(q => !(typeof q === 'object' && q.embed_url));
+  const displayQuotes = videoQuote ? [videoQuote, ...otherQuotes] : otherQuotes;
   return `
     ${td.position ? `<div class="topic-position-text">${td.position}</div>` : ''}
-    ${quotes.length > 0 ? `<div class="quotes-list">${quotes.map(q => quoteItemHtml(q)).join('')}</div>` : ''}`;
+    ${displayQuotes.length > 0 ? `<div class="quotes-list">${displayQuotes.map(q => quoteItemHtml(q)).join('')}</div>` : ''}`;
 }
 
 // ── Unified citation renderer ─────────────────────────────────────────────────
