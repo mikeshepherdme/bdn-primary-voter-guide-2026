@@ -373,6 +373,31 @@ function getBestQuote(quotes) {
   return quotes[0];
 }
 
+// Citation priority: 0=timestamped video, 1=BDN, 2=campaign/Maine Public,
+// 3=other media, 4=Maine Morning Star (last resort)
+function citationScore(urlOrSrc) {
+  const s = (urlOrSrc || '').toLowerCase();
+  if (!s) return 3;
+  if (s.includes('bangordailynews')) return 1;
+  if (s.includes('mainemorningstar')) return 4;
+  if (s.includes('mainepublic') || s.includes('maine.gov') ||
+      s.includes('campaign') || /\.(com|org|net)\/[a-z-]+\/?(#|$)/.test(s)) return 2;
+  return 3;
+}
+
+function quoteScore(q) {
+  if (!q || typeof q !== 'object') return 3;
+  if (q.embed_url) return 0;
+  return citationScore(q.url) || citationScore(q.source);
+}
+
+function bulletScore(b) {
+  if (!b || typeof b !== 'object') return 3;
+  if (b.timestamp_seconds != null) return 0;
+  const s = citationScore(b.source_url);
+  return s !== 3 ? s : citationScore(b.source_label);
+}
+
 // ── URL / Routing ─────────────────────────────────────────────────────────────
 function parseHash() {
   const hash  = location.hash.replace(/^#\/?/, '');
@@ -668,11 +693,16 @@ function topicSnippetHtml(cand, topicKey) {
 function topicBodyHtml(td) {
   if (td.synthesis) {
     const s = td.synthesis;
-    const citedBullets = (s.bullets || []).filter(b => b.source_label || b.source_url);
-    const bulletsHtml  = citedBullets.map(b => bulletHtml(b)).join('');
+    // Sort bullets: video → BDN → campaign → other → Morning Star
+    const citedBullets = (s.bullets || [])
+      .filter(b => b.source_label || b.source_url)
+      .slice()
+      .sort((a, b) => bulletScore(a) - bulletScore(b));
+    const bulletsHtml = citedBullets.map(b => bulletHtml(b)).join('');
 
-    // Show at most one video clip per topic
-    const bestVideo = (td.quotes || []).find(q => typeof q === 'object' && q.embed_url);
+    // Best video: prefer non-Morning Star if available, else fall back to any
+    const videos = (td.quotes || []).filter(q => typeof q === 'object' && q.embed_url);
+    const bestVideo = videos.sort((a, b) => quoteScore(a) - quoteScore(b))[0] || null;
     const videoHtml = bestVideo
       ? `<div class="quotes-list">${quoteItemHtml(bestVideo)}</div>`
       : '';
@@ -685,9 +715,10 @@ function topicBodyHtml(td) {
 
   // Fallback for topics not yet synthesized: one video clip + all non-video quotes
   const quotes = td.quotes || [];
-  const videoQuote  = quotes.find(q => typeof q === 'object' && q.embed_url);
-  const otherQuotes = quotes.filter(q => !(typeof q === 'object' && q.embed_url));
-  const displayQuotes = videoQuote ? [videoQuote, ...otherQuotes] : otherQuotes;
+  const sortedAll = quotes.filter(q => typeof q === 'object').slice().sort((a, b) => quoteScore(a) - quoteScore(b));
+  const bestVideo   = sortedAll.find(q => q.embed_url) || null;
+  const otherQuotes = sortedAll.filter(q => !q.embed_url);
+  const displayQuotes = bestVideo ? [bestVideo, ...otherQuotes] : otherQuotes;
   return `
     ${td.position ? `<div class="topic-position-text">${td.position}</div>` : ''}
     ${displayQuotes.length > 0 ? `<div class="quotes-list">${displayQuotes.map(q => quoteItemHtml(q)).join('')}</div>` : ''}`;
