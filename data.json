@@ -92,6 +92,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Now she's running for U.S. Senate to fix what's broken in Washington, to lower costs for everyone, and to stand up to anyone who tries to hurt Maine people.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://janetmills.com"
           }
         ],
         "confidence": "high",
@@ -280,6 +288,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "protecting our health care when politicians try to rip it away, taking on the drug companies fueling the opioid crisis",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://janetmills.com"
           }
         ],
         "confidence": "high",
@@ -549,7 +565,8 @@
         "sources": [
           "colby_town_hall",
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Mills supports comprehensive immigration reform, opposes ICE enforcement in sensitive locations, and calls for humane pathways to citizenship.",
@@ -696,13 +713,30 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Reassert the Authority of Congress",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://janetmills.com"
+          },
+          {
+            "text": "Stand Up to Donald Trump",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://janetmills.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "colby_town_hall",
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Mills supports campaign finance reform, congressional limits, and election integrity measures as safeguards against threats to democratic governance.",
@@ -795,6 +829,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "strengthening our economy, expanding opportunity, protecting our rights, and standing up to anyone who threatens our future",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://janetmills.com"
           }
         ],
         "confidence": "high",
@@ -1028,6 +1070,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "ICYMI: In Cumberland County, Janet Mills Meets with Mayors, Hosts Health Care Roundtable, Holds Press Conference with Planned Parenthood Action Fund",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://janetmills.com"
           }
         ],
         "confidence": "high",
@@ -1509,6 +1559,12 @@
         "label": "Maine Public: \"Trump, Mills clash over president's threat to withhold state education funding at White House event\"",
         "date": null,
         "url": "https://www.mainepublic.org/politics/2025-02-21/trump-mills-clash-over-presidents-threat-to-withhold-state-education-funding-at-white-house-event"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://janetmills.com"
       }
     ],
     "priority_topics": [
@@ -1653,6 +1709,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Maine is becoming unaffordable for thousands and thousands of us. Why? Because we have a government by, of, and for billionaires, building a 'billionaire economy' that none of us can afford.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.grahamforsenate.com"
           }
         ],
         "confidence": "high",
@@ -1736,6 +1800,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "win back the seat for the working Mainers being priced out of our homes",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.grahamforsenate.com"
           }
         ],
         "confidence": "high",
@@ -1875,6 +1947,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Healthcare is a basic human right — not a privilege, not a perk, a right.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.grahamforsenate.com"
+          },
+          {
+            "text": "I will be a strong supporter of a Medicare for All system, moving away from the for-profit insurance system that has brought us nothing but grief.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.grahamforsenate.com"
           }
         ],
         "confidence": "high",
@@ -2095,6 +2183,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "why should small businesses pay a higher tax rate than multi-national corporations like Amazon? Righting this wrong will be among my top priorities in the Senate.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.grahamforsenate.com"
           }
         ],
         "confidence": "high",
@@ -2179,6 +2275,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "We need strong border security and a path to citizenship. We cannot do one without the other.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.grahamforsenate.com"
           }
         ],
         "confidence": "high",
@@ -2306,13 +2410,30 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "We must throw out of Washington any politician who will not commit to passing a constitutional amendment to ban billionaires buying elections!",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.grahamforsenate.com"
+          },
+          {
+            "text": "a scheme of legalized bribery and vote-buying that drowns out the voices of regular people, effectively replacing what we used to call democracy",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.grahamforsenate.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "colby_town_hall",
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Platner views democratic decay as a systemic problem requiring structural reforms to reduce corporate influence in politics.",
@@ -2580,6 +2701,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Maine is a special place, and our way of life, our economy, and our future depends on preserving it.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.grahamforsenate.com"
           }
         ],
         "confidence": "high",
@@ -3834,6 +3963,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Energy costs have skyrocketed in recent years making it harder for Mainers to afford to keep the lights on and stay warm. As Governor, Troy will stop these electricity rate hikes, cut outrageous utility profits and reinvest in our grid, and make Maine energy independent.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jacksonformaine.com"
+          },
+          {
+            "text": "As Governor, Troy has a plan to ensure that no working class family pays more than 7 percent of their income on childcare.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jacksonformaine.com"
           }
         ],
         "confidence": "high",
@@ -3908,6 +4053,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Working families are being priced out of Maine while Wall Street investors and out-of-state millionaires buy up our communities.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jacksonformaine.com"
           }
         ],
         "confidence": "high",
@@ -3991,6 +4144,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Too many people are forced to choose between putting food on the table and affording their medication. All while Big Pharma and health insurance companies rake in record profits.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jacksonformaine.com"
+          },
+          {
+            "text": "As Governor, he will pass laws to rein in the cost of prescription drugs, improve access to medication and put patients before profits.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jacksonformaine.com"
           }
         ],
         "confidence": "high",
@@ -4154,6 +4323,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "It seems like the government only works for those at the top – career politicians cater to people with money, power and influence, ignoring the voices of everyday working people.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jacksonformaine.com"
+          },
+          {
+            "text": "Troy has a bold plan to lower costs and make it easier for working Mainers to put a roof over their head, heat their homes, make ends meet, afford to go to the doctor and find quality, affordable child care.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jacksonformaine.com"
           }
         ],
         "confidence": "high",
@@ -4162,7 +4347,8 @@
           "press_event",
           "debate",
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Jackson centers his economic platform on raising taxes on the wealthy and corporations to benefit working-class Mainers.",
@@ -4876,6 +5062,12 @@
         "date": "2026-05-06",
         "url": "https://www.bangordailynews.com/2026/05/06/mainefocus/mainefocus-government/bobby-charles-foreign-policy-record-joam40zk0w/",
         "source_id": "bdn_charles_state_dept_2026-05-06"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://jacksonformaine.com"
       }
     ],
     "priority_topics": [
@@ -4973,7 +5165,8 @@
           "mpa_podcast",
           "maine_public_questionnaire",
           "debate",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Shah supports broad affordability measures targeting property taxes, housing production, and healthcare costs for Maine families.",
@@ -5048,6 +5241,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "He is focused on fixing housing, funding healthcare, feeding kids, and fueling growth–all while fighting the overreaches of the Trump administration.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://shahformaine.com"
           }
         ],
         "confidence": "high",
@@ -5056,7 +5257,8 @@
           "maine_public_questionnaire",
           "debate",
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Shah views housing as central to solving Maine's mental health, homelessness, and affordability challenges, proposing production and financing reforms.",
@@ -5140,6 +5342,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Nirav Shah is running for governor to fix housing, fund healthcare, feed kids, and fuel growth for all Mainers.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://shahformaine.com"
+          },
+          {
+            "text": "Maine's Affordable Health Care Future",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://shahformaine.com"
           }
         ],
         "confidence": "high",
@@ -5148,7 +5366,8 @@
           "mpa_podcast",
           "maine_public_questionnaire",
           "debate",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Shah frames healthcare as his central gubernatorial priority, emphasizing affordability, rural access, and universal coverage as core goals.",
@@ -5231,7 +5450,8 @@
           "maine_public_questionnaire",
           "debate",
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Shah prioritizes defending public schools from federal dismantling while expanding access and increasing investment in Maine's education system.",
@@ -5284,12 +5504,21 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Nirav Shah is running for governor to fix housing, fund healthcare, feed kids, and fuel growth for all Mainers.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://shahformaine.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "maine_public_questionnaire",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Shah focuses on workforce growth through caregiving jobs, clean energy pathways, small business support, and attracting younger residents to Maine.",
@@ -5454,11 +5683,28 @@
         "position": "Shah says the Trump administration poses a threat to Maine's institutions and he would be a frontline defender against federal overreach.",
         "quotes": [
           "we have to stand up to Washington when Washington is wrong",
-          "Maine's values are under attack from the Trump administration"
+          "Maine's values are under attack from the Trump administration",
+          {
+            "text": "He is focused on fixing housing, funding healthcare, feeding kids, and fueling growth–all while fighting the overreaches of the Trump administration.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://shahformaine.com"
+          },
+          {
+            "text": "Safeguarding Maine From the Trump Administration",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://shahformaine.com"
+          }
         ],
         "confidence": "high",
         "sources": [
-          "transcript"
+          "transcript",
+          "website"
         ],
         "synthesis": {
           "overview": "Shah views the Trump administration as a threat to Maine's institutions and pledges active resistance to federal overreach.",
@@ -5632,7 +5878,8 @@
         ],
         "confidence": "high",
         "sources": [
-          "maine_public_questionnaire"
+          "maine_public_questionnaire",
+          "website"
         ],
         "synthesis": {
           "overview": "Nirav Shah supports abortion rights and has committed to protecting reproductive freedom in Maine as governor.",
@@ -5855,6 +6102,12 @@
         "date": "2026-05-05",
         "url": "https://www.bangordailynews.com/2026/05/05/politics/elections/maine-democratic-gubernatorial-debate/",
         "source_id": "bdn_dem_debate_recap_2026-05-05"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://shahformaine.com"
       }
     ],
     "priority_topics": [
@@ -5961,6 +6214,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Today, Maine faces urgent challenges: a housing crisis, climate change, rising costs, and attacks on our rights and democracy.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://hannahforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -5969,7 +6230,8 @@
           "mpa_podcast",
           "debate",
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Pingree supports a more progressive tax system and increased taxes on wealthy individuals and non-resident property owners to fund affordability initiatives.",
@@ -6092,6 +6354,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Today, Maine faces urgent challenges: a housing crisis, climate change, rising costs, and attacks on our rights and democracy.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://hannahforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -6193,6 +6463,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "From expanding access to health care and affordable housing to leading Maine's climate work, Hannah brings people together and delivers real results for Maine families.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://hannahforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -6277,7 +6555,8 @@
           "mpa_podcast",
           "debate",
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Pingree supports expanding early childhood education, school-based mental health services, and increased state funding for K-12 schools.",
@@ -6354,6 +6633,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Hannah is ready to deliver solutions that put Maine people first.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://hannahforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -6361,7 +6648,8 @@
           "colby_town_hall",
           "mpa_podcast",
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Pingree supports expanding clean energy jobs, small business growth, and workforce development as core economic priorities for Maine.",
@@ -6554,6 +6842,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Today, Maine faces urgent challenges: a housing crisis, climate change, rising costs, and attacks on our rights and democracy. Hannah is stepping up to fight back and build a stronger, fairer future for all Mainers.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://hannahforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -6653,6 +6949,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "attacks on our rights and democracy",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://hannahforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -6661,7 +6965,8 @@
           "mpa_podcast",
           "debate",
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Pingree positions herself as a strong civil liberties advocate, prioritizing tribal sovereignty, LGBTQ+ rights, and immigrant protections as governor.",
@@ -6759,6 +7064,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "From expanding access to health care and affordable housing to leading Maine's climate work, Hannah brings people together and delivers real results for Maine families.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://hannahforgovernor.com"
+          },
+          {
+            "text": "Today, Maine faces urgent challenges: a housing crisis, climate change, rising costs, and attacks on our rights and democracy.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://hannahforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -7095,6 +7416,12 @@
         "date": "2026-05-05",
         "url": "https://www.bangordailynews.com/2026/05/05/politics/elections/maine-democratic-gubernatorial-debate/",
         "source_id": "bdn_dem_debate_recap_2026-05-05"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://hannahforgovernor.com"
       }
     ],
     "priority_topics": [
@@ -7201,6 +7528,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "rising costs have made life unaffordable for too many of our neighbors. Whether it's high property taxes, rising rents, or increased utility costs, too many people are struggling to make it to the end of the month.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bellowsformaine.com"
+          },
+          {
+            "text": "A new deal for Maine where Mainers don't have to choose between paying for heat, feeding their families, or staying in their homes.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bellowsformaine.com"
           }
         ],
         "confidence": "high",
@@ -7308,6 +7651,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Creating a Housing Corps program modeled after AmeriCorps to pay people to train in the Trades and put those skills to use in new home construction and rehabilitation of existing structures",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bellowsformaine.com"
           }
         ],
         "confidence": "high",
@@ -7416,6 +7767,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "A new deal for Maine where everyone has access to healthcare they can afford and a doctor within reach.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bellowsformaine.com"
+          },
+          {
+            "text": "As Governor, Shenna will fight to ensure that every Mainer has a safe, affordable home, a quality education, affordable health care, and a good paying job they can support a family on.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bellowsformaine.com"
           }
         ],
         "confidence": "high",
@@ -7523,6 +7890,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "A new deal for Maine where every child has access to a quality public education and teachers don't have to work two or three jobs to provide for their families.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bellowsformaine.com"
           }
         ],
         "confidence": "high",
@@ -7530,7 +7905,8 @@
           "colby_town_hall",
           "transcript",
           "debate",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Bellows supports increased state funding for public education and opposes voucher programs that redirect money away from public schools.",
@@ -7614,6 +7990,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "As Governor, I will roll out A New Deal For Our Economy that will lower property taxes on primary residences, cut utility costs, boost our housing supply, and provide opportunities for new businesses and entrepreneurship. And we'll pay for it by making the wealthy pay their fair share.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bellowsformaine.com"
           }
         ],
         "confidence": "high",
@@ -7899,6 +8283,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Our rights are under attack, our institutions are failing, and too many Mainers are just one emergency away from collapse.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bellowsformaine.com"
           }
         ],
         "confidence": "high",
@@ -8151,6 +8543,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Installing solar panels for LIHEAP eligible homes",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bellowsformaine.com"
+          },
+          {
+            "text": "Streamlining permitting and procurement for clean energy projects",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bellowsformaine.com"
           }
         ],
         "confidence": "high",
@@ -8158,7 +8566,8 @@
           "colby_town_hall",
           "transcript",
           "debate",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Bellows views Maine's environment as an economic asset and supports leading the clean energy transition through utility reform and direct investment.",
@@ -8234,6 +8643,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "As Executive Director of the ACLU of Maine from 2005 to 2013, Shenna led fights to protect reproductive rights and safeguard privacy.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bellowsformaine.com"
           }
         ],
         "confidence": "high",
@@ -8541,6 +8958,12 @@
         "date": "2026-05-05",
         "url": "https://www.bangordailynews.com/2026/05/05/politics/elections/maine-democratic-gubernatorial-debate/",
         "source_id": "bdn_dem_debate_recap_2026-05-05"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://www.bellowsformaine.com"
       }
     ],
     "priority_topics": [
@@ -8647,6 +9070,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "We'll start to bring our energy costs under control, and put our system on a path that is cleaner, cheaper, and more reliable every day.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://angusforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -8909,6 +9340,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Our kids don't get these years back. We need to get back to basics, focus on what works, and make sure every child can read by the end of third grade.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://angusforgovernor.com"
+          },
+          {
+            "text": "Maine should have the best-trained, best-prepared workforce in America—and that starts in our schools.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://angusforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -8985,6 +9432,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Maine currently has over 30,000 open jobs, and we're not teaching our kids enough about them today.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://angusforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -9374,6 +9829,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "he's spent his career building affordable housing that is actually affordable, solar and wind projects that are powering thousands of homes and businesses",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://angusforgovernor.com"
+          },
+          {
+            "text": "Angus King III Slams Trump Administration for Gutting Climate Protections and Add Costs for Maine Families",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://angusforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -9659,6 +10130,12 @@
         "date": "2026-05-05",
         "url": "https://www.bangordailynews.com/2026/05/05/politics/elections/maine-democratic-gubernatorial-debate/",
         "source_id": "bdn_dem_debate_recap_2026-05-05"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://angusforgovernor.com"
       }
     ],
     "priority_topics": [
@@ -9750,6 +10227,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "national reports have ranked Maine as one of the top three most heavily taxed states in the country. This isn't happening by accident. It's the result of choices made by leaders in Augusta—and it can be reversed if we elect leaders willing to make different ones.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.voterobertwessels.com"
           }
         ],
         "confidence": "high",
@@ -9882,13 +10367,30 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "I'm running for governor because I believe in the foundational values of individual liberty, personal responsibility, and limited government—values that have been trampled by the current leadership of our state.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.voterobertwessels.com"
+          },
+          {
+            "text": "From heavy-handed COVID lockdowns to the removal of religious and philosophical vaccine exemptions, chipping away at our 2nd amendment rights and even efforts to mandate what type of vehicle you drive!",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.voterobertwessels.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "transcript",
           "mpi_interview",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Wessels prioritizes medical freedom and personal autonomy while seeking to significantly reduce Maine's Medicaid enrollment.",
@@ -9973,6 +10475,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "He advocates for solutions like education tax credits that empower families without limiting school freedom.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.voterobertwessels.com"
           }
         ],
         "confidence": "high",
@@ -10064,6 +10574,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Together, let's return to a government that puts Maine's working people first!",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.voterobertwessels.com"
           }
         ],
         "confidence": "high",
@@ -10170,12 +10688,21 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "If the state can take away one constitutional right without due process, what stops it from taking others? Free speech? Property rights? Religious liberty? The danger is not just about guns — it's about government overreach in every corner of our lives.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.voterobertwessels.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Wessels ties public safety to Second Amendment protections, opposing red flag laws and supporting expanded law enforcement authority.",
@@ -10222,6 +10749,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "When something as serious as 250 official ballots ends up in an Amazon box instead of a clerk's office, that's not a small hiccup; it's a failure of control.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.voterobertwessels.com"
+          },
+          {
+            "text": "For decades, Mainers have taken pride in local elections — small-town transparency, hand-counted ballots, neighbors watching neighbors do the work. But things have changed. And not for the better.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.voterobertwessels.com"
           }
         ],
         "confidence": "medium",
@@ -10305,6 +10848,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "I'm a lifelong Republican and a political outsider. I love the American Dream, and I am a staunch supporter of our First and Second Amendment rights.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.voterobertwessels.com"
+          },
+          {
+            "text": "Maine's government is heading down a dangerous path—one marked by growing overreach and shrinking freedoms.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.voterobertwessels.com"
           }
         ],
         "confidence": "high",
@@ -10391,6 +10950,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "The Maine Department of Environmental Protection recently considered what they called a 'minor policy change' that would have had a major impact: requiring new car dealerships to only purchase electric vehicles (EVs) from manufacturers.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.voterobertwessels.com"
+          },
+          {
+            "text": "even efforts to mandate what type of vehicle you drive!",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.voterobertwessels.com"
           }
         ],
         "confidence": "high",
@@ -10577,6 +11152,12 @@
         "date": "2026-05-07",
         "url": "https://www.bangordailynews.com/2026/05/07/politics/elections/wessels-joining-his-bush-campaign-maine-governor/",
         "source_id": "bdn_wessels_bush_2026-05-07"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://www.voterobertwessels.com"
       }
     ],
     "priority_topics": [
@@ -10683,6 +11264,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "With the 5th highest tax burden in the nation, our cost of living continues to rise while wages stagnate.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
+          },
+          {
+            "text": "I would sign LD 856 to gradually eliminate Maine's income tax over five years, making us more competitive with states like New Hampshire.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
           }
         ],
         "confidence": "high",
@@ -10767,6 +11364,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Maine faces a housing crisis driven by high demand and limited supply.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
           }
         ],
         "confidence": "high",
@@ -10841,6 +11446,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "With over 400,000 Mainers on Medicaid, our system is unsustainable. I support common-sense reforms like limiting assistance to U.S. citizens and requiring work for able-bodied adults.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
+          },
+          {
+            "text": "I would sign LD 743 to eliminate outdated Certificate of Need requirements, which block healthcare providers from expanding services or building new facilities.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
           }
         ],
         "confidence": "high",
@@ -10922,6 +11543,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "We cannot continue to throw money at school districts that are not adequately educating Maine's youth. We must get back to basics by investing in teachers and focusing on reading, writing and arithmetic.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
+          },
+          {
+            "text": "I would sign LD 220 to give families control over their children's education funding. A good education shouldn't depend on zip code.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
           }
         ],
         "confidence": "high",
@@ -11060,6 +11697,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "He knows what is holding Maine back: high taxes, overregulation, and anti-growth policies.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
+          },
+          {
+            "text": "I would sign LD 187 to make Maine a right-to-work state, fostering a business-friendly environment. This will attract companies, create jobs, and drive economic growth.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
           }
         ],
         "confidence": "high",
@@ -11128,6 +11781,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "As Governor, I will prioritize Mainers by ensuring public safety and supporting legal immigration.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
           }
         ],
         "confidence": "high",
@@ -11200,13 +11861,30 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Article 1, Section 16 of the Maine Constitution affirms that 'every citizen has a right to keep and bear arms, and this right shall never be questioned.'",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
+          },
+          {
+            "text": "As Governor, I will staunchly defend both the Maine and U.S. Constitutions, opposing any attempts to erode our gun rights.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "mpi_interview",
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Jones prioritizes reforming child welfare oversight, opposing sanctuary cities, and increasing accountability in public safety administration.",
@@ -11352,6 +12030,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "I would veto LD 497, which overregulates vernal pools and stifles property development. We can protect our environment while allowing landowners to build responsibly.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
+          },
+          {
+            "text": "I would sign LD 342 and LD 343 to explore small modular reactors and add nuclear to Maine's renewable portfolio. Nuclear energy is safe, reliable, and emissions-free.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.jones2026.com"
           }
         ],
         "confidence": "high",
@@ -11618,6 +12312,12 @@
         "date": "2026-05-06",
         "url": "https://www.bangordailynews.com/2026/05/06/politics/elections/bobby-charles-gop-debate-attacks-n6hjn1me0n/",
         "source_id": "bdn_charles_attacks_2026-05-06"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://www.jones2026.com"
       }
     ],
     "priority_topics": [
@@ -11743,6 +12443,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "His vision is simple but powerful: lower costs, create better jobs, and protect the values that make Maine strong.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.benforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -11812,13 +12520,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Electricity prices, property taxes, and housing costs are too high for Maine families, and politicians in Augusta just don't get it.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.benforgovernor.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "transcript",
           "mpi_interview",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Midgley prioritizes reducing property taxes by conditioning state funding to municipalities on keeping tax rates flat or lower.",
@@ -11977,6 +12694,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Ben believes schools need to get back to the basics. They should be focused on reading, writing, math and preparing our children for their future careers.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.benforgovernor.com"
+          },
+          {
+            "text": "Ben will support efforts to empower parents to ensure they know what's happening in the classroom. Parents know what's best for their children, not government.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.benforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -12107,6 +12840,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "His vision is simple but powerful: lower costs, create better jobs, and protect the values that make Maine strong.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.benforgovernor.com"
+          },
+          {
+            "text": "We can ensure every Mainer has the opportunity to experience the American Dream. We just have to buckle up and get to work.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.benforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -12295,6 +13044,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Our right to keep and bear arms is embedded in who we are, as Mainers. It is fundamental to our way of life.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.benforgovernor.com"
           }
         ],
         "confidence": "high",
@@ -12523,6 +13280,12 @@
         "date": "2026-05-07",
         "url": "https://www.bangordailynews.com/2026/05/07/politics/elections/maine-republican-debate/",
         "source_id": "bdn_rep_debate_recap_2026-05-07"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://www.benforgovernor.com"
       }
     ],
     "priority_topics": [
@@ -12647,13 +13410,30 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Maine is facing serious challenges: rising costs, public safety concerns, workforce shortages, housing constraints, and a growing sense that government is disconnected from everyday life.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://masonformaine.com"
+          },
+          {
+            "text": "an understanding of how laws passed in Augusta actually affect payrolls, housing costs, energy bills, public safety, and the ability of employers and families to plan for the future.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://masonformaine.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "transcript",
           "mpi_interview",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Mason argues Augusta's spending, taxes, and overregulation have made Maine unaffordable and pledges to cut costs for families and businesses.",
@@ -12712,13 +13492,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Maine is facing serious challenges: rising costs, public safety concerns, workforce shortages, housing constraints, and a growing sense that government is disconnected from everyday life.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://masonformaine.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "transcript",
           "mpi_interview",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Mason views housing costs as a top crisis requiring regulatory reform, expanded financing options, and reduced permitting barriers.",
@@ -12963,13 +13752,30 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Maine is facing serious challenges: rising costs, public safety concerns, workforce shortages, housing constraints, and a growing sense that government is disconnected from everyday life.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://masonformaine.com"
+          },
+          {
+            "text": "He is running to restore confidence in Maine's future and ensure that Maine remains a place where families can live safely, affordably, and with opportunity.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://masonformaine.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "transcript",
           "mpi_interview",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Mason supports growing Maine's economy by cutting regulations, reducing government spending, and fixing energy costs to attract businesses.",
@@ -13100,13 +13906,30 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Maine is facing serious challenges: rising costs, public safety concerns, workforce shortages, housing constraints, and a growing sense that government is disconnected from everyday life.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://masonformaine.com"
+          },
+          {
+            "text": "He is running to restore confidence in Maine's future and ensure that Maine remains a place where families can live safely, affordably, and with opportunity.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://masonformaine.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "transcript",
           "mpi_interview",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Mason views rising crime and the drug crisis as failures of current leadership and pledges to restore law enforcement resources.",
@@ -13478,6 +14301,12 @@
         "date": "2018-05-28",
         "url": "https://www.bangordailynews.com/2018/05/28/politics/garrett-mason-mixes-christian-conservative-roots-with-youthful-leadership-in-bid-to-succeed-lepage/",
         "source_id": "bdn_mason_profile_2018-05-28"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://masonformaine.com"
       }
     ],
     "priority_topics": [
@@ -13603,6 +14432,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "After six years of one-party control in Augusta, we have out of control spending, higher taxes, unaffordable housing, failing schools and an addiction crisis.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://owenformaine.com"
           }
         ],
         "confidence": "high",
@@ -13611,7 +14448,8 @@
           "transcript",
           "mpi_interview",
           "debate",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "McCarthy frames affordability as Maine's central crisis and proposes sweeping tax cuts targeting working- and middle-class households.",
@@ -13680,6 +14518,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "After six years of one-party control in Augusta, we have out of control spending, higher taxes, unaffordable housing, failing schools and an addiction crisis.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://owenformaine.com"
           }
         ],
         "confidence": "high",
@@ -13687,7 +14533,8 @@
           "maine2040_plan",
           "transcript",
           "mpi_interview",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "McCarthy views Maine's 42,000-unit housing shortage as a generational crisis requiring regulatory reform, faster permitting, and restrictions on institutional investors.",
@@ -13832,13 +14679,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "After six years of one-party control in Augusta, we have out of control spending, higher taxes, unaffordable housing, failing schools and an addiction crisis.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://owenformaine.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "maine2040_plan",
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "McCarthy prioritizes foundational literacy and math, proposing mandates, school choice expansion, and child protection measures in Maine schools.",
@@ -13954,6 +14810,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "We need to restore hope and opportunity to Maine, and as an engineer, entrepreneur, and political outsider, I'll bring the fresh-thinking and new perspective we need to change direction and give regular people the fighting chance they deserve.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://owenformaine.com"
           }
         ],
         "confidence": "high",
@@ -13962,7 +14826,8 @@
           "transcript",
           "mpi_interview",
           "debate",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "McCarthy prioritizes economic growth through targeted industry investment, tax elimination, and regulatory reform to create 50,000 net new jobs.",
@@ -14072,12 +14937,21 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "After six years of one-party control in Augusta, we have out of control spending, higher taxes, unaffordable housing, failing schools and an addiction crisis.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://owenformaine.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "maine2040_plan",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "McCarthy emphasizes cracking down on drug trafficking, reforming bail and harm reduction policies, and strengthening public safety infrastructure statewide.",
@@ -14494,6 +15368,12 @@
         "label": "The Maine Wire: \"Owen McCarthy Tells Maine GOP Convention He Is Running to “Take Our State Back”\"",
         "date": null,
         "url": "https://www.themainewire.com/2026/04/owen-mccarthy-tells-maine-gop-convention-he-is-running-to-take-our-state-back/"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://owenformaine.com"
       }
     ],
     "priority_topics": [
@@ -14612,6 +15492,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Mainers are being crushed by high prices, high taxes, and the rising cost of living.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
+          },
+          {
+            "text": "Bobby Charles will reverse the heavy burden that businesses and working families face under high taxes and excessive regulations. He pledges to abolish the state income tax, slash unnecessary regulation, and cut the red tape that stifles economic growth.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
           }
         ],
         "confidence": "high",
@@ -14728,12 +15624,29 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "He will strengthen law enforcement, increase support for addiction recovery and mental health services, and ensure our communities are no longer losing loved ones to violence and overdose.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
+          },
+          {
+            "text": "Cut Off Benefits for Illegal Immigrants: End state-funded welfare, housing assistance, and non-emergency healthcare for those who have entered Maine illegally.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
           }
         ],
         "confidence": "medium",
         "sources": [
           "debate",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Charles frames Maine healthcare around eliminating DHHS fraud and corruption while improving provider reimbursement and restoring system accountability.",
@@ -14899,6 +15812,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "END COSTLY POLITICAL MANDATES",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
+          },
+          {
+            "text": "cut the red tape that stifles economic growth, so Mainers can keep more of what they earn and attract more opportunity to our state.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
           }
         ],
         "confidence": "high",
@@ -14982,6 +15911,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Maine is not a sanctuary state under Bobby Charles. Every illegal immigrant taking resources from Maine families and taxpayers will face consequences under the law.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
+          },
+          {
+            "text": "On Day One, sign an Executive Order directing all Maine state agencies, including DHHS and law enforcement, to fully cooperate with U.S. Immigration and Customs Enforcement.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
           }
         ],
         "confidence": "high",
@@ -15090,6 +16035,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Fully restore all law enforcement budget lines cut under the Mills administration in Year One. Public safety is not a line item to be balanced against woke priorities.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
           }
         ],
         "confidence": "high",
@@ -15139,11 +16092,28 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "MAINE GOP FRONT-RUNNER BOBBY CHARLES BLASTS DEMOCRATS' RANKED-CHOICE POWER GRAB",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
+          },
+          {
+            "text": "Launch an Independent Accountability Task Force: By executive order on day one, establish a task force of professionals from outside state government to investigate fraud, waste, and abuse across every state agency.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
           }
         ],
         "confidence": "medium",
         "sources": [
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Charles warns that one-party government threatens freedom and pledges to curb gubernatorial emergency powers in Maine.",
@@ -15170,10 +16140,21 @@
         }
       },
       "civil_liberties": {
-        "position": null,
-        "quotes": [],
-        "confidence": "none",
-        "sources": []
+        "position": "Bobby Charles has indicated support for religious freedom as a debate topic but does not provide detailed civil liberties positions in the available text.",
+        "quotes": [
+          {
+            "text": "CONSERVATIVE NAVAL INTELLIGENCE OFFICER BOBBY CHARLES WINS DEBATE, CHALLENGES NIRAV SHAH TO DEBATE RELIGIOUS FREEDOM AND AFFORDABILITY.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
+          }
+        ],
+        "confidence": "low",
+        "sources": [
+          "website"
+        ]
       },
       "foreign_policy": {
         "position": null,
@@ -15209,6 +16190,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "END COSTLY POLITICAL MANDATES",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.bobbyformaine.com"
           }
         ],
         "confidence": "low",
@@ -15407,6 +16396,12 @@
         "date": "2026-05-06",
         "url": "https://www.bangordailynews.com/2026/05/06/politics/elections/bobby-charles-gop-debate-attacks-n6hjn1me0n/",
         "source_id": "bdn_charles_attacks_2026-05-06"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://www.bobbyformaine.com"
       }
     ],
     "priority_topics": [
@@ -15514,6 +16509,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "We will reduce Maine's energy costs by doubling the availability of natural gas.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jonathanbush.org"
           }
         ],
         "confidence": "high",
@@ -15705,13 +16708,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "4th highest in health insurance burden",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jonathanbush.org"
           }
         ],
         "confidence": "high",
         "sources": [
           "transcript",
           "mpi_interview",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Bush favors market-based, technology-driven healthcare reforms, prioritizing rural access and reducing state government's role in delivery.",
@@ -15786,13 +16798,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "39th in Reading and Math",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jonathanbush.org"
           }
         ],
         "confidence": "high",
         "sources": [
           "transcript",
           "mpi_interview",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Bush views Maine's low student achievement rankings as an emergency requiring school choice, accountability, and bureaucratic reform.",
@@ -15956,6 +16977,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "We will make Maine the easiest place in America to start and run a company. Whether you are a mom wanting to start your own business at home or a company trying to decide where to make drone ships, every state employee should view their job as helping you succeed.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jonathanbush.org"
           }
         ],
         "confidence": "high",
@@ -16063,12 +17092,29 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "On day one, we will stop the needle-distributing madness that encourages drug addiction and brings people here from out of state to shoot up.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jonathanbush.org"
+          },
+          {
+            "text": "We will also end the ridiculous policy that keeps police from making legitimate arrests if the perpetrators identify as homeless, and we will end the policies that allow jails to turn away people who have been arrested.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jonathanbush.org"
           }
         ],
         "confidence": "high",
         "sources": [
           "transcript",
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Bush emphasizes aggressive enforcement to address Maine's drug overdose crisis, citing policy failures in Portland and Bangor.",
@@ -16209,6 +17255,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "We will pursue every legal action available to end the pipeline blockade that's been set up by the phony environmentalists running New York and Massachusetts, the blockade that prevents us from accessing affordable and plentiful natural gas from Pennsylvania.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://jonathanbush.org"
           }
         ],
         "confidence": "high",
@@ -16458,6 +17512,12 @@
         "date": "2026-05-06",
         "url": "https://www.bangordailynews.com/2026/05/06/politics/elections/bobby-charles-gop-debate-attacks-n6hjn1me0n/",
         "source_id": "bdn_charles_attacks_2026-05-06"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://jonathanbush.org"
       }
     ],
     "priority_topics": [
@@ -16512,6 +17572,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "The cost is too high, plain and simple. We need to double the child tax credit.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
           }
         ],
         "confidence": "high",
@@ -16560,6 +17628,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Everyone deserves a place to call home in a community they can afford, but you have to work for it.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
           }
         ],
         "confidence": "medium",
@@ -16608,6 +17684,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Make quality care accessible for all.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
           }
         ],
         "confidence": "medium",
@@ -16648,7 +17732,15 @@
       "education": {
         "position": "Pietrowicz supports teaching core subjects — English, math, science, history, health, and life skills — and opposes gender-affirming care in schools.",
         "quotes": [
-          "Quality Education: We have to teach our children English, Math, Science, History, Health, and life skills. What we don't need is our children learning gender affirming care."
+          "Quality Education: We have to teach our children English, Math, Science, History, Health, and life skills. What we don't need is our children learning gender affirming care.",
+          {
+            "text": "We have to teach our children English, Math, Science, History, Health, and life skills. What we don't need is our children learning gender affirming care.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
+          }
         ],
         "confidence": "high",
         "sources": [
@@ -16690,6 +17782,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "We need an American economy that is robust, prominent, and capable of employing every class of Americans.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
+          },
+          {
+            "text": "We should be able to meet our needs domestically by producing everything ourselves, rather than relying on others overseas.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
           }
         ],
         "confidence": "high",
@@ -16737,11 +17845,20 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "We need a strong secure border that legally allows a million of the best and brightest to become U.S. citizens.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
           }
         ],
         "confidence": "high",
         "sources": [
-          "media_article"
+          "media_article",
+          "website"
         ],
         "synthesis": {
           "overview": "Pietrowicz supports balancing due process and rule of law with humanitarian principles in immigration enforcement.",
@@ -16770,9 +17887,25 @@
       "crime_public_safety": {
         "position": "Pietrowicz supports criminal justice reform including ending for-profit prisons and the long holding of non-violent offenders.",
         "quotes": [
-          "Criminal Justice Reform: For profit prisons and the long holding of non-violent offenders must come to an end."
+          "Criminal Justice Reform: For profit prisons and the long holding of non-violent offenders must come to an end.",
+          {
+            "text": "Proactive policing reduces violent crime. Safety is of the utmost priority so that Americans can feel safe wherever they go.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
+          },
+          {
+            "text": "For profit prisons and the long holding of non-violent offenders must come to an end.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
+          }
         ],
-        "confidence": "medium",
+        "confidence": "high",
         "sources": [
           "website"
         ],
@@ -16803,7 +17936,23 @@
       "threats_to_democracy": {
         "position": "Pietrowicz supports banning insider trading by members of Congress.",
         "quotes": [
-          "Banning Insider Trading: Joshua aims to ban members of Congress and their immediate families from owning and trading individual stocks while they are in office."
+          "Banning Insider Trading: Joshua aims to ban members of Congress and their immediate families from owning and trading individual stocks while they are in office.",
+          {
+            "text": "Joshua aims to ban members of Congress and their immediate families from owning and trading individual stocks while they are in office. Members of Congress should be focussed on service, not self-enrichment.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
+          },
+          {
+            "text": "We cannot allow overreaching Government censorship or the stripping of freedom of assembly.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
+          }
         ],
         "confidence": "medium",
         "sources": [
@@ -16845,6 +17994,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Whether it is online censorship, gun-confiscating government legislation, condemning / closing of churches and religious gatherings, or any other de-humanizing event in between, know that I will always be an advocate for the God-given rights of the American people.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
+          },
+          {
+            "text": "We cannot allow overreaching Government censorship or the stripping of freedom of assembly.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
           }
         ],
         "confidence": "high",
@@ -16888,6 +18053,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "I personally support a 500 ship strong U.S. Navy commanding the high seas to ensure global free trade with American dollars freely flowing into a growing global economy.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
+          },
+          {
+            "text": "Whether it's international terrorism, growing tensions with peer adversaries, or threats domestically, I am committed to ensuring our armed forces have the personnel, equipment, and training needed to neutralize all threats to our great nation.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
           }
         ],
         "confidence": "high",
@@ -16936,6 +18117,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Save our National Parks and forests for future generations of Americans to enjoy.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
           }
         ],
         "confidence": "low",
@@ -16974,10 +18163,29 @@
         }
       },
       "reproductive_rights": {
-        "position": null,
-        "quotes": [],
-        "confidence": "none",
-        "sources": []
+        "position": "Pietrowicz personally opposes abortion but supports state self-governance on the issue, and would vote federally to allow abortion under 12 weeks at the mother's choice with mandatory consultations, while permitting later procedures only to save the mother's life.",
+        "quotes": [
+          {
+            "text": "All abortion under 12 weeks is the choice of the mother, but a consultation option must occur twice on two separate days with a minimum period wait of 72 hours in between unless medically necessary to save the life of the mother.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
+          },
+          {
+            "text": "Joshua believes, on the subject of abortion, that each state has the right to it's own self-governance on this issue. He personally does not support or believe in abortion, but understands the protected rights of all people and the right to life.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.joshuapietrowicz.com/"
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "website"
+        ]
       },
       "trump_opposition": {
         "position": "Pietrowicz supports expanding eligibility for tax provisions in President Trump's spending law, including no taxes on tips and overtime pay.",
@@ -17049,6 +18257,12 @@
         "label": "Maine Morning Star: \"Voter Guide - House District 1 - Republican Primary\"",
         "date": null,
         "url": "https://mainemorningstar.com/voter-guides/contests/2026-republican-primary-u-s-house-district-1/"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://www.joshuapietrowicz.com/"
       }
     ],
     "priority_topics": [
@@ -17599,6 +18813,12 @@
         "label": "Maine Morning Star: \"Voter Guide - House District 1 - Republican Primary\"",
         "date": null,
         "url": "https://mainemorningstar.com/voter-guides/contests/2026-republican-primary-u-s-house-district-1/"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://ronrussellforcongress.com"
       }
     ],
     "priority_topics": [
@@ -17668,6 +18888,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Life in Maine is unaffordable. Washington isn't working for us. I have a plan to fix it.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
+          },
+          {
+            "text": "Working Mainers shouldn't be crushed by taxes while billionaires use loopholes to dodge taxes.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
           }
         ],
         "confidence": "high",
@@ -17726,6 +18962,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Housing in Maine is completely unaffordable for too many families. Corporate landlords and hedge funds are buying up homes and driving prices through the roof, while everyday Mainers are left behind. Housing should be for people, not profits.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
           }
         ],
         "confidence": "high",
@@ -17814,6 +19058,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "It is unconscionable that we are the only major nation that does not guarantee healthcare coverage.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
           }
         ],
         "confidence": "high",
@@ -17986,6 +19238,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Require ID for ICE and Law Enforcement Officials & Stop Unlawful Arrests Without Due Process",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
+          },
+          {
+            "text": "End Indiscriminate Mass Deportation",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
           }
         ],
         "confidence": "high",
@@ -18036,6 +19304,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Keep Our Communities Safe from Gun Violence",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
           }
         ],
         "confidence": "medium",
@@ -18130,6 +19406,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Our country is under attack by unelected billionaires, unchecked corporate influence, and a rogue right-wing Supreme Court installed by Donald Trump.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
+          },
+          {
+            "text": "Donald Trump and his Republican allies in Congress are subverting our Constitution and turning our government into a tool for the wealthy at the expense of regular Mainers.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
           }
         ],
         "confidence": "high",
@@ -18181,6 +19473,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Champion LGBTQ+ Equality",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
+          },
+          {
+            "text": "Require ID for ICE and Law Enforcement Officials & Stop Unlawful Arrests Without Due Process",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
           }
         ],
         "confidence": "high",
@@ -18250,6 +19558,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Promote Democracy and Human Rights, and Peace Through Diplomacy",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
           }
         ],
         "confidence": "high",
@@ -18301,6 +19617,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Protect our Environment and Tackle the Climate Crisis",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
+          },
+          {
+            "text": "Make Renewable Energy Affordable",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
           }
         ],
         "confidence": "high",
@@ -18342,7 +19674,15 @@
         "position": "Wood would restore abortion rights nationwide.",
         "quotes": [
           "Restore the right to an abortion nationwide",
-          "restore abortion rights nationwide"
+          "restore abortion rights nationwide",
+          {
+            "text": "Restore Abortion Rights Nationwide",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://electjordan.com"
+          }
         ],
         "confidence": "high",
         "sources": [
@@ -18536,6 +19876,12 @@
         "label": "Bangor Daily News: \"Democrats running for Jared Golden’s seat break from his legacy in 1st debate\"",
         "date": null,
         "url": "https://www.bangordailynews.com/2026/04/28/politics/elections/maine-2nd-congressional-district-democratic-debate/"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://electjordan.com"
       }
     ],
     "priority_topics": [
@@ -18597,6 +19943,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "it isn't broken because people aren't working hard enough, it's broken because it's been rigged for the wealthy few.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
           }
         ],
         "confidence": "high",
@@ -18670,6 +20024,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "It's time for a federal tax on corporate and private-equity ownership of single-family homes to discourage speculative hoarding.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
           }
         ],
         "confidence": "high",
@@ -18750,6 +20112,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Healthcare should be simple: you get sick, you get care.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
           }
         ],
         "confidence": "high",
@@ -18816,6 +20186,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "implementing federally funded universal school meals so no child goes hungry or feels singled out.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
           }
         ],
         "confidence": "high",
@@ -18889,6 +20267,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Workers deserves the right to organize and earn a living wage, I will fight to restore balance by strengthening workers' rights to unionize and holding corporations accountable when they engage in union-busting.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
+          },
+          {
+            "text": "I will fight to expand access to capital for small businesses, simplify SBA loans, and ensure federal grants, tax incentives, and contracts prioritize local, unionized, and community-owned businesses.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
           }
         ],
         "confidence": "high",
@@ -18940,6 +20334,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Dignity means people are not disposable - regardless of income, gender identity, immigration status, or zip code.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
           }
         ],
         "confidence": "high",
@@ -19059,6 +20461,22 @@
             "timestamp_seconds": 3277,
             "video_url": "https://www.youtube.com/watch?v=b5EkoUQxiNg&t=3277",
             "embed_url": "https://www.youtube.com/embed/b5EkoUQxiNg?start=3277"
+          },
+          {
+            "text": "No More Fear, No More Authoritarianism",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
+          },
+          {
+            "text": "Acting honestly, responsibly, and in the public interest - not corporations or foreign interests.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
           }
         ],
         "confidence": "high",
@@ -19132,6 +20550,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "Dignity means people are not disposable - regardless of income, gender identity, immigration status, or zip code.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
           }
         ],
         "confidence": "high",
@@ -19204,6 +20630,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "I reject the idea that strength comes from endless war, occupation, and genocide.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
+          },
+          {
+            "text": "My commitment is to human rights, sovereignty, and self-determination everywhere — from Palestine to Iran, Ukraine, Venezuela, and Greenland.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
           }
         ],
         "confidence": "high",
@@ -19307,7 +20749,15 @@
         "quotes": [
           "Federally codify Roe v. Wade — abortion is healthcare, period",
           "full spectrum reproductive healthcare — prenatal, postnatal, midwifery, doula, fertility, postpartum mental health",
-          "abortion is healthcare"
+          "abortion is healthcare",
+          {
+            "text": "Reproductive Justice is Healthcare Justice",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.loudforcongress.com"
+          }
         ],
         "confidence": "high",
         "sources": [
@@ -19457,6 +20907,12 @@
         "label": "Bangor Daily News: \"Democrats running for Jared Golden’s seat break from his legacy in 1st debate\"",
         "date": null,
         "url": "https://www.bangordailynews.com/2026/04/28/politics/elections/maine-2nd-congressional-district-democratic-debate/"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://www.loudforcongress.com"
       }
     ],
     "priority_topics": [
@@ -20266,6 +21722,12 @@
         "label": "Bangor Daily News: \"Democrats running for Jared Golden’s seat break from his legacy in 1st debate\"",
         "date": null,
         "url": "https://www.bangordailynews.com/2026/04/28/politics/elections/maine-2nd-congressional-district-democratic-debate/"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://baldacciforcongress.com"
       }
     ],
     "priority_topics": [
@@ -20319,6 +21781,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "In Congress, I'll fight for universal childcare, good-paying jobs, and a surge in affordable housing to help our neighbors manage a middle-class life again.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.mattdunlapforuscongress.com"
           }
         ],
         "confidence": "high",
@@ -20390,6 +21860,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "I'll fight for universal childcare, good-paying jobs, and a surge in affordable housing to help our neighbors manage a middle-class life again.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.mattdunlapforuscongress.com"
           }
         ],
         "confidence": "high",
@@ -20463,6 +21941,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "It's past time to move towards a Medicare-for-all system that puts people's health and financial well-being over private profits for health insurance companies and executives.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.mattdunlapforuscongress.com"
+          },
+          {
+            "text": "It's time to stop letting insurance companies and pharmaceutical conglomerates decide whether or not we can get the care we need and deserve.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.mattdunlapforuscongress.com"
           }
         ],
         "confidence": "high",
@@ -20589,6 +22083,22 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "I am 100% pro-labor. As a former labor union member, I'll be a steadfast pro-union voice in Congress. That means fighting for workers' rights through legislation like the PRO Act, defending fair wages, safe working conditions, and the right to organize.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.mattdunlapforuscongress.com"
+          },
+          {
+            "text": "Maine workers built this state—we need a Congress that fights for them.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.mattdunlapforuscongress.com"
           }
         ],
         "confidence": "high",
@@ -20638,6 +22148,14 @@
             "timestamp_seconds": null,
             "video_url": null,
             "embed_url": null
+          },
+          {
+            "text": "He'll stand up to ICE raids tearing apart Maine communities.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.mattdunlapforuscongress.com"
           }
         ],
         "confidence": "high",
@@ -20699,12 +22217,29 @@
             "timestamp_seconds": 696,
             "video_url": "https://www.youtube.com/watch?v=b5EkoUQxiNg&t=696",
             "embed_url": "https://www.youtube.com/embed/b5EkoUQxiNg?start=696"
+          },
+          {
+            "text": "Our Democracy is under threat.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.mattdunlapforuscongress.com"
+          },
+          {
+            "text": "When I'm in Congress, I'll fight for the rule of law and protect our democracy from these attacks. I beat Trump once as Maine's Secretary of State. I'll do it again as a member of Congress.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.mattdunlapforuscongress.com"
           }
         ],
         "confidence": "high",
         "sources": [
           "maine_public_questionnaire",
-          "debate"
+          "debate",
+          "website"
         ],
         "synthesis": {
           "overview": "Dunlap supports DOJ independence, judicial authority, and electoral integrity, drawing on his experience challenging a federal election commission.",
@@ -20922,7 +22457,15 @@
         "quotes": [
           "I will always stand up for a woman's right to make her own health decisions",
           "Safe access to reproductive health care should be a constitutional right.",
-          "Do you support the right to an abortion? Yes."
+          "Do you support the right to an abortion? Yes.",
+          {
+            "text": "The decision to terminate a pregnancy belongs to the woman faced with whatever circumstances that affect her, and no one should have the right to predetermine what health choices any woman makes.",
+            "source": "Campaign website",
+            "timestamp_seconds": null,
+            "video_url": null,
+            "embed_url": null,
+            "url": "https://www.mattdunlapforuscongress.com"
+          }
         ],
         "confidence": "high",
         "sources": [
@@ -21072,6 +22615,12 @@
         "label": "Bangor Daily News: \"Democrats running for Jared Golden’s seat break from his legacy in 1st debate\"",
         "date": null,
         "url": "https://www.bangordailynews.com/2026/04/28/politics/elections/maine-2nd-congressional-district-democratic-debate/"
+      },
+      {
+        "type": "website",
+        "label": "Campaign website",
+        "date": null,
+        "url": "https://www.mattdunlapforuscongress.com"
       }
     ],
     "priority_topics": [
