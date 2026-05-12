@@ -29484,21 +29484,18 @@ function topicSnippetHtml(cand, topicKey) {
 function topicBodyHtml(td) {
   if (td.synthesis) {
     const s = td.synthesis;
-    // Sort bullets: video → BDN → campaign → other → Morning Star
     const citedBullets = (s.bullets || [])
       .filter(b => b.source_label || b.source_url)
       .slice()
-      .sort((a, b) => bulletScore(a) - bulletScore(b));
+      .sort((a, b) => bulletScore(a) - bulletScore(b))
+      .slice(0, 2);
     const bulletsHtml = citedBullets.map(b => bulletHtml(b)).join('');
-
-    return `
-      <div class="synthesis-overview">${s.overview}</div>
-      ${bulletsHtml ? `<ul class="synthesis-bullets">${bulletsHtml}</ul>` : ''}`;
+    return bulletsHtml ? `<ul class="synthesis-bullets">${bulletsHtml}</ul>` : '';
   }
 
   // Fallback for topics not yet synthesized
   const quotes = td.quotes || [];
-  const sortedAll = quotes.filter(q => typeof q === 'object').slice().sort((a, b) => quoteScore(a) - quoteScore(b));
+  const sortedAll = quotes.filter(q => typeof q === 'object').slice().sort((a, b) => quoteScore(a) - quoteScore(b)).slice(0, 2);
   return `
     ${td.position ? `<div class="topic-position-text">${td.position}</div>` : ''}
     ${sortedAll.length > 0 ? `<div class="quotes-list">${sortedAll.map(q => quoteItemHtml(q)).join('')}</div>` : ''}`;
